@@ -1,0 +1,10 @@
+---
+title: Aylu / Trap EP
+position: 15
+image: "/uploads/fr015.jpg"
+is-featured: true
+layout: release
+---
+01. Aylu / Trap (Original Mix)
+02. Aylu / Trap (1OO1O Remix)
+03. Aylu / Trap (Creepside Remix)

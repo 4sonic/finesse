@@ -1,0 +1,22 @@
+<div class="excerpt">
+    {% if artist.website %}
+    <a href="{{ artist.website }}" target="_blank">
+    {% elsif artist.facebook %}
+    <a href="{{ artist.facebook }}" target="_blank">
+    {% else %}
+    <a href="{{ artist.twitter }}" target="_blank">
+    {% endif %}
+
+    <div class="grid-x align-center-middle excerpt__title">
+      <div class="small-12 cell text-center text-uppercase">
+        <h4 class="secondary-font margin-bottom-0">{{ artist.title }}</h4>
+      </div>
+    </div>
+
+    <div class="excerpt__image">
+      {% assign image = artist.image %}
+      {% include images/excerpt.html %}
+    </div>
+
+    </a>
+</div>

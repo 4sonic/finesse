@@ -1,0 +1,12 @@
+---
+title: CVSPER / Girl EP
+position: 17
+image: "/uploads/fr017.jpg"
+is-featured: true
+layout: release
+---
+01. CVSPER / Intro (Original Mix)
+ 02. CVSPER / Gimme (Original Mix)
+ 03. CVSPER / I Know What To Do (Original Mix)
+ 04. CVSPER / For You (Original Mix)
+ 05. CVSPER / I Know What To Do (Tomas Urquieta Remix)

@@ -1,0 +1,18 @@
+<div class="excerpt">
+
+    <a href="{{ release.url }}">
+
+
+    <div class="grid-x align-center-middle excerpt__title">
+      <div class="small-12 cell text-center text-uppercase">
+        <h4 class="secondary-font margin-bottom-0">{{ release.title }}</h4>
+      </div>
+    </div>
+
+    <div class="excerpt__image">
+      {% assign image = release.image %}
+      {% include images/excerpt.html %}
+    </div>
+
+    </a>
+</div>

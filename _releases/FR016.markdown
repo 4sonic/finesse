@@ -1,0 +1,9 @@
+---
+title: 1OO1O / Owls EP
+position: 16
+image: "/uploads/fr016.jpg"
+is-featured: true
+layout: release
+---
+01. 1OO1O / On My Way ft. Felina (Original Mix)
+02. 1OO1O / Owls ft. Felina (Original Mix)

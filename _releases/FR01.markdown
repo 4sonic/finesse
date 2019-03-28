@@ -1,0 +1,18 @@
+---
+title: V.A. / Bootleg Compilation Vol. 01
+categories:
+- artist-and-label-press
+- daytime-radio
+tags:
+- artist
+position: 5
+image: "/uploads/fr001.jpg"
+is-featured: true
+layout: release
+---
+
+01. Rhymefest ft Kanye West / Brand New (AdrianBe Bootleg)
+02. Wiz Khalifa / I Go Hard (Elebleu Bootleg)
+03. SevnthWonder ft Hotwax / First Kiss (1OO1O Bootleg)
+04. Aaliyah / Are You That Somebody (CruzLee Bootleg)
+05. Jeremiah / Rated 'R' (TeenFlirt Bootleg) 

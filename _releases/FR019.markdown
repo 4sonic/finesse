@@ -1,0 +1,10 @@
+---
+title: Adrian Be / Tough Talk EP
+position: 19
+image: "/uploads/fr019.jpg"
+is-featured: true
+layout: release
+---
+01. Adrian Be / Tough Talk (Original Mix)  
+02. Adrian Be / Tough Talk (Creep$ide Remix)  
+03. Adrian Be / Tough Talk (Corcovado Remix) 
